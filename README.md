@@ -2,59 +2,95 @@
 Data Analytics Portfolio | Showcasing hands-on projects using Excel, SQL, and Power BI to explore data, identify trends, generate business insights, and support data-driven decision-making.
 
 Data Analytics Portfolio
+# Hi, I'm ilveris! (Ivy) 👋
+
+ Aspiring Entry-Level Data Analyst
 
 Welcome to my Data Analytics Portfolio!
 
-This repository showcases my journey in developing practical data analytics skills through hands-on projects using Excel, SQL, and Power BI.
+I'm building my skills in data analysis through hands-on projects using Excel, SQL, and Power BI. My goal is to develop practical experience working with data, answering business questions, identifying patterns, and communicating findings that support better decision-making.
 
-My goal is to demonstrate my ability to work with data, identify patterns and trends, answer business questions, and translate findings into meaningful business insights.
+ 🛠️ Tools & Technologies
 
-Technical Skills
+- Microsoft Excel
+- Microsoft SQL Server (SSMS)
+- Power BI
+- SQL
 
-Excel: Data cleaning, data validation, PivotTables, PivotCharts, and data analysis.
+ 📊 Data Analytics Projects
 
-SQL: Querying databases, filtering, joining tables, aggregating data, and extracting insights.
+ 1. Amazon Sales Analysis | Excel
 
-Power BI: Data transformation, data modeling, interactive dashboards, and data visualization.
+**Overview:**
 
-Projects
+Analyzed Amazon sales data using Microsoft Excel to explore product performance, pricing, customer engagement, and sales patterns.
 
-1. Amazon Sales Analysis | Excel
+Skills Practiced:**
 
-Objective: Explore Amazon product data to identify pricing patterns, customer engagement trends, and discount-related insights.
+- Data organization and exploration
+- PivotTables
+- Pivot Charts
+- Product pricing analysis
+- Customer engagement analysis
+- Data summarization
 
-Skills Demonstrated:
+**Objective:**
 
-Data cleaning and validation.
+Explore sales data and use Excel to summarize information, identify patterns, and answer basic business questions.
 
-Product pricing analysis.
+ 2. E-commerce Sales Analysis | SQL Server
 
-Customer engagement analysis.
+**Overview:**
 
-PivotTables and PivotCharts.
+Explored e-commerce sales data using Microsoft SQL Server Management Studio (SSMS) to examine revenue, product performance, and sales across product categories.
 
-Business question development.
+**Skills Practiced:**
 
-Data interpretation and reporting.
+- SELECT statements
+- SUM function
+- GROUP BY
+- ORDER BY
+- Basic JOIN operations
+- Data retrieval and exploration
 
-Tools: Microsoft Excel
+**Objective:**
 
-2. SQL Data Analysis Project
+Practice foundational SQL skills by retrieving and analyzing sales information to answer basic business questions.
 
-Project details and business questions will be added as the project develops.
+ 3. Professional Data Analyst Survey | Power BI
 
-Tools: SQL
+**Overview:**
 
-3. Power BI Dashboard Project
+Created a Power BI dashboard using professional data analyst survey data to explore information about data professionals, including their job roles, salaries, programming languages, and career experiences.
 
-Project details, visualizations, and analytical findings will be added as the project develops.
+**Skills Practiced:**
 
-Tools: Microsoft Power BI
+- Data visualization
+- Dashboard creation
+- Charts and graphs
+- Data exploration
+- Interactive reporting
 
-Career Development
+**Objective:**
 
-I am continuously strengthening my analytical, technical, and problem-solving abilities through practical projects and independent learning.
+Explore survey results and use Power BI visualizations to identify patterns and present information about the data analytics profession.
 
-This portfolio represents my commitment to developing the skills needed to contribute to data-driven business decisions.
+## 🎯 Career Goals
+
+I'm currently developing my foundational data analytics skills through practical projects and continuous learning.
+
+I'm particularly interested in entry-level opportunities in data analytics, business analysis, and e-commerce analytics where I can continue growing my technical skills and contribute to data-driven decision-making.
+
+ 📚 Currently Learning
+
+- SQL
+- Excel
+- Power BI
+- Data Analysis
+- Business Intelligence
 
 Thank you for visiting my portfolio!
+
+
+
+
