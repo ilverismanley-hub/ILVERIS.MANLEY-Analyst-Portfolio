@@ -4,7 +4,7 @@ Data Analytics Portfolio | Showcasing hands-on projects using Excel, SQL, and Po
 Data Analytics Portfolio
 # Hi, I'm ilveris! (Ivy) 👋
 
- Aspiring Entry-Level Data Analyst
+ Aspiring Entry-Level Data Analyst | Open to Entry-Level Business and Data-Related Opportunities
 
 Welcome to my Data Analytics Portfolio!
 
